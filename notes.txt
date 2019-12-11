@@ -1,0 +1,21 @@
+12/10 S.G.
+
+What does SQL stand for? 
+~> Structured Query Language
+
+What is SQL for?
+- Data mainuplation
+- Info storage
+- Sharing of Data
+
+What kinds of operations can we excute in SQL?
+- CREATE data (tables)
+  ~ INSERT info into (tables)
+- READ data
+  ~ SELECT info
+- UPDATE data
+  ~ CHANGE/ALTER tables 
+- DELETE data
+ ~ Remove data
+
+C.R.U.D.
