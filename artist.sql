@@ -1,4 +1,4 @@
-INSERT INTO artist (name, gener_id) VALUES 
+INSERT INTO artists (name, genre_id) VALUES 
 ("AC/DC", 16), 
 ("Accept", 1), 
 ("Aerosmith",1), 

@@ -19,3 +19,17 @@ What kinds of operations can we excute in SQL?
  ~ Remove data
 
 C.R.U.D.
+
+
+Helpful Links:
+SQLite3 Terminal Commands: https://www.sitepoint.com/getting-started-sqlite3-basic-commands/
+
+SQL COMMANDS: https://www.codecademy.com/articles/sql-commands
+
+
+~~~~~
+
+12/12
+Helpful Links:
+how to use join statements: https://www.w3schools.com/sql/sql_join.asp
+online whiteboard: https://awwapp.com/#
