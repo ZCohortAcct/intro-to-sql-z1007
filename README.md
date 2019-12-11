@@ -95,4 +95,14 @@ INSERT INTO fans(name, artist_id) VALUES ('Z McGlynn', 39)
 
 ```
 
+## BONUS (very hard)
 
+11. I want to return the names of the artists and their number of rock tracks
+    who play Rock music
+    and have move than 30 tracks
+    in order of the number of rock tracks that they have
+    from greatest to least
+
+```sql
+
+```
