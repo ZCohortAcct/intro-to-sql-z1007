@@ -92,11 +92,11 @@ INSERT INTO fans(name, artist_id) VALUES ('Z McGlynn', 39)
 11. Write the SQL to return the name of all of the artists in the 'Pop' Genre
 
 ```sql
-
+SELECT Artists.name  FROM artists WHERE Artists.genre_id = 13;
 ```
 
 ## BONUS (very hard)
-11. I want to return the names of the artists and the number of pop tracks they have on their albums if the ablum has more then than 20 tracks and in order of the number of pop tracks that they have from greatest to least
+12. Return the names of the artists in the pop genre and the number of tracks they have in their albums if the ablum has more then than 20 tracks and order of the number of pop tracks that they have from greatest to least
 
 ```sql
 
